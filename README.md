@@ -96,43 +96,43 @@ project/
 
 ##USER:
 Homepage : 
-![example](home-page.png)
-![example](home-page-2.png)
-![example](home-page-3.png)
+![example](./screenshots/user/home-page.png)
+![example](./screenshots/user/home-page-2.png)
+![example](./screenshots/user/home-page-3.png)
 
 Collection :
-![example](collection.png)
+![example](./screenshots/user/collection.png)
 
 Collection Filter :
-![example](collection-filter.png)
+![example](./screenshots/user/collection-filter.png)
 
 About :
-![example](about.png)
+![example](./screenshots/user/about.png)
 
 Product :
-![example](products.png)
+![example](./screenshots/user/products.png)
 
 Cart User :
-![example](cart.png)
+![example](./screenshots/user/cart.png)
 
 Order History :
-![example](order-history.png)
+![example](./screenshots/user/order-history.png)
 
 Process to checkout :
-![example](process.png)
+![example](./screenshots/user/process.png)
 
 User track order :
-![example](user-track-order.png)
+![example](./screenshots/user/user-track-order.png)
 
 ##ADMIN :
 Add Item :
-![example](admin-add-item.png)
+![example](./screenshots/admin/admin-add-item.png)
 
 List Item :
-![example](admin-list-item.png)
+![example](./screenshots/admin/admin-list-item.png)
 
 History-order :
-![example](admin-history-order.png)
+![example](./screenshots/admin/admin-history-order.png)
 
 
 
