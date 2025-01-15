@@ -94,3 +94,51 @@ project/
 └── README.md
 ```
 
+##USER:
+Homepage : 
+![example](home-page.png)
+![example](home-page-2.png)
+![example](home-page-3.png)
+
+Collection :
+![example](collection.png)
+
+Collection Filter :
+![example](collection-filter.png)
+
+About :
+![example](about.png)
+
+Product :
+![example](products.png)
+
+Cart User :
+![example](cart.png)
+
+Order History :
+![example](order-history.png)
+
+Process to checkout :
+![example](process.png)
+
+User track order :
+![example](user-track-order.png)
+
+##ADMIN :
+Add Item :
+![example](admin-add-item.png)
+
+List Item :
+![example](admin-list-item.png)
+
+History-order :
+![example](admin-history-order.png)
+
+
+
+
+
+
+
+
+
